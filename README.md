@@ -1,7 +1,11 @@
 # The Autocomplete Project
 ## Available Scripts
 
+
 In the project directory, you can run:
+
+### `npm install`
+Install dependencies
 
 ### `npm start`
 
